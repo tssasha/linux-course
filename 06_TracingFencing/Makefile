@@ -1,0 +1,3 @@
+all: move
+
+move:
