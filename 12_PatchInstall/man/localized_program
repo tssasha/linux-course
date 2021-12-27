@@ -1,0 +1,8 @@
+.TH LOCALIZED_PROGRAM 1
+.SH NAME
+localized_program \- Please select number between 1 and 100, and make it secret
+.SH SYNOPSIS
+.B localized_program
+.SH DESCRIPTION
+.B localized_program
+Guesses a selected number
